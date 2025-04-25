@@ -689,6 +689,10 @@ img {
   margin-top: 4rem;
 }
 
+.footer__copy a {
+  color: var(--yellow);
+}
+
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
   width: 0.7vw;
@@ -697,7 +701,6 @@ img {
 ::-webkit-scrollbar-thumb {
   background-color: var(--yellow);
   border-radius: 5px;
-  border: 1px solid var(--body-color);
 }
 
 ::-webkit-scrollbar-track {
@@ -1039,5 +1042,9 @@ img {
   .footer__links,
   .footer__list {
     row-gap: 1rem;
+  }
+
+  .scrollup {
+    right: 3rem;
   }
 }
