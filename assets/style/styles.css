@@ -890,7 +890,7 @@ img {
   }
 
   .home__img-1 {
-    width: 550px;
+    width: 500px;
     margin-left: 0;
   }
 
@@ -898,7 +898,7 @@ img {
     width: 350px;
     border-width: 10px;
     left: -7rem;
-    bottom: -8rem;
+    bottom: -18rem;
   }
 
   .home__lines {
@@ -916,10 +916,10 @@ img {
   }
 
   .about__img-1 {
-    width: 370px;
+    width: 350px;
     border-width: 10px;
     top: -9rem;
-    left: 11rem;
+    left: 12rem;
   }
 
   .about__img-2 {
